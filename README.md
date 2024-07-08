@@ -5,7 +5,7 @@ This repository contains the Python code underlying the peer-reviewed paper titl
 
 The method for detecting and delineating icebergs from top-of-atmosphere Sentinel-2 near-infrared (B08) reflectance (scaled to 0-1 range) data is simple:
 
-$iceberg = B08 >= 0.12$.
+$$iceberg = B08 >= 0.12$$.
 
 
 
