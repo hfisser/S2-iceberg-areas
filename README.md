@@ -10,4 +10,4 @@ Iceberg areas are important for studies on freshwater and nutrient fluxes in gla
 This repository contains code that was written to conduct the experiments. The purpose is to publish the calculations implemented in the code along with the paper. This repository is no standalone software and it is not an installable Python package. Furthermore, it does not contain the data needed to run the analysis. Please reach out if you seek the data used in the study. 
 
 ## Contact
-Please find the contact details of the first author shared in the publication referenced above.
+Use the contact details of the first author shared in the publication referenced above.
